@@ -1,5 +1,5 @@
 {
-  "name": "Dailybot",
+  "name": "KrisBani",
   "version": "1.0.0",
   "description": "I represent myself as a penguin 🐧 and I work at QoQa.ch as otter 🦦. Web, mobile backend, I try to touch everything. I prefer the web for now.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KrisBani/Dailybot.git"
+    "url": "git+https://github.com/KrisBani/KrisBani.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KrisBani/Dailybot/issues"
+    "url": "https://github.com/KrisBani/KrisBani/issues"
   },
-  "homepage": "https://github.com/KrisBani/Dailybot#readme",
+  "homepage": "https://github.com/KrisBani/KrisBani#readme",
   "devDependencies": {
     "eslint": "^7.30.0"
   }
