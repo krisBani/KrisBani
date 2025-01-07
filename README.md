@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Dailybot
-=======
+
 ### Hi there 👋
 
 I create application on the web and share my journey on [Twitter](https://mlv.sh/twitter) and [Youtube](https://mlv.sh/youtube) !
