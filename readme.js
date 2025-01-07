@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Dailybot
-=======
-### Hi there 👋
+module.exports = `### Hi there 👋
 
 I create application on the web and share my journey on [Twitter](https://mlv.sh/twitter) and [Youtube](https://mlv.sh/youtube) !
 
@@ -57,11 +54,11 @@ Create a daily note without any friction.
 
 <img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
 
-Added the `Mon 3 Jan 2022`
+Added the \`Mon 3 Jan 2022\`
 
-Last update on Tue Jan 07 2025
+Last update on <#today_date>
 
-**359 day before 2026 ⏱** days before new years
+<#day_before_new_years> days before new years
 
-🤖 This README.md is updated with pleasure, by Gabot ❤️
->>>>>>> master
+<#gabot_signing>
+`;
