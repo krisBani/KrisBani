@@ -1,5 +1,5 @@
 {
-  "name": "melvynx",
+  "name": "Dailybot",
   "version": "1.0.0",
   "description": "I represent myself as a penguin 🐧 and I work at QoQa.ch as otter 🦦. Web, mobile backend, I try to touch everything. I prefer the web for now.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Melvynx/Melvynx.git"
+    "url": "git+https://github.com/KrisBani/Dailybot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Melvynx/Melvynx/issues"
+    "url": "https://github.com/KrisBani/Dailybot/issues"
   },
-  "homepage": "https://github.com/Melvynx/Melvynx#readme",
+  "homepage": "https://github.com/KrisBani/Dailybot#readme",
   "devDependencies": {
     "eslint": "^7.30.0"
   }
